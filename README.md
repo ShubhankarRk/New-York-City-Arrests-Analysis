@@ -1,4 +1,5 @@
 # New-York-City-Arrests-Analysis
+This project focuses on the New York city arrests trends over the 2019-2023 year period with emphasis of the impact of COVID-19. 
 
 View the dashboard here : https://public.tableau.com/app/profile/shubhankar.radhakrishn/viz/NewYorkCityArrests/Dashboard1
 
